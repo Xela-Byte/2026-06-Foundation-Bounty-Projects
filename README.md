@@ -123,7 +123,7 @@ Additional instructions for milestone delivery will be communicated separately.
 ├── README.md
 ├── projects/
 │   ├── application-template.md
-│   └── your-project.md
+│   └── my-project.md
 └── .github/
     └── pull_request_template.md
 ```
