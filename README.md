@@ -23,7 +23,7 @@ We are looking for projects that:
 
 ---
 
-# 📝 Application Process
+# Application Process
 
 ## 1️⃣ Fork This Repository
 
@@ -79,7 +79,7 @@ Your Pull Request should only contain:
 
 ---
 
-# 🔍 Review Process
+# Review Process
 
 Applications will be reviewed by the program reviewers and curators.
 
@@ -93,7 +93,7 @@ Applicants should respond to feedback directly within the Pull Request discussio
 
 ---
 
-# ✅ Approval Process
+# Approval Process
 
 Applications may be:
 - Approved
@@ -104,7 +104,7 @@ Approved applications will be merged into the repository and officially recogniz
 
 ---
 
-# 📦 Project Deliveries
+# Project Deliveries
 
 Approved teams may later be asked to:
 - Submit milestone reports
@@ -141,6 +141,6 @@ Additional instructions for milestone delivery will be communicated separately.
 
 # 📬 Support
 
-If you have questions regarding the bounty process, please open a GitHub Issue or contact the program maintainers.
+If you have questions regarding the bounty process, please open a GitHub Issue 
 
-We look forward to seeing what you build 🚀
+We look forward to seeing what you build.
