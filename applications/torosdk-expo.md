@@ -1,5 +1,7 @@
 # 📝 torosdk-expo
 
+> **🏗️ Builder Bounty Project** — This application is submitted under the **Builder Bounty** track of the June 2026 Bounty Program.
+
 ## 🌟 Project Overview
 
 **Tagline:** A typed React Native / Expo SDK 52 wrapper that brings the Toronet blockchain to mobile developers through familiar hooks, secure credential storage, and one-command project bootstrap.
